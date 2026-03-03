@@ -1,0 +1,27 @@
+{
+  "figures": [
+    {
+      "path": "figures/qnm_ratio_collapse/ratio_collapse_median_band.png",
+      "label": "fig:ratio_collapse_median_band",
+      "caption": "Near-extremal collapse binned summary (pooled N=156): R=|Im(\u03c9M)|/(T_H M) is consistent with a weak \u0394-dependence (log\u2013log slope \u03b2=-0.02373, R\u00b2=0.002509)."
+    },
+    {
+      "path": "figures/qnm_absolute_tables/rho_by_family.png",
+      "label": "fig:rho_by_family",
+      "caption": "Universality of the scaling exponent $\\rho$ in $|\\mathrm{Im}(\\omega M)|\\propto (T_H M)^{\\rho}$ across Kerr QNM families."
+    }
+  ],
+  "tables": [
+    {
+      "path": "figures/qnm_ratio_collapse/ratio_collapse_binned_table.tex",
+      "input": "\\input{figures/qnm_ratio_collapse/ratio_collapse_binned_table.tex}"
+    },
+    {
+      "path": "figures/qnm_ratio_collapse/ratio_collapse_inference.tex",
+      "input": "\\input{figures/qnm_ratio_collapse/ratio_collapse_inference.tex}"
+    }
+  ],
+  "notes": {
+    "abstract_one_liner": "Across 6 Kerr QNM families (total N=1560), we find |Im(\u03c9M)| \u221d (T_H M)^\u03c1 with \u03c1\u0304=0.993683\u00b10.001965 (family spread; range [0.990236,0.995716]); the normalized ratio R=|Im(\u03c9M)|/(T_H M) exhibits a near-extremal collapse with plateau median R=5.927 at \u0394\u22640.05 (16\u201384%: [2.952,11.658], pooled N=156)."
+  }
+}

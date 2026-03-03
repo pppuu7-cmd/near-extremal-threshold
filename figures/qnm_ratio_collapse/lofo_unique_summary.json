@@ -1,0 +1,42 @@
+{
+  "input": "C:\\Users\\axioma338\\Documents\\\u0422\u0435\u043e\u0440\u0438\u044f \u0432\u0441\u0435\u0433\u043e\\\u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u044b\u0440\u044b\\\u0410\u043b\u0433\u0435\u0440\u0431\u0440\u0430\\\u0420\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439\\near-extremal-threshold\\data\\qnm\\qnm_kerr_bundle_enriched.csv",
+  "delta_max": 0.05,
+  "filtered_N": 42,
+  "family_key": [
+    "ell",
+    "m",
+    "n",
+    "source"
+  ],
+  "digits_used": 17,
+  "rows": [
+    {
+      "label": "none (full sample, $\\Delta\\le0.05$)",
+      "median": 5.927222107500797
+    },
+    {
+      "label": "drop (\\ell,m,n)=(2,2,0) [qnm]",
+      "median": 8.797632790805674
+    },
+    {
+      "label": "drop (\\ell,m,n)=(2,2,1) [qnm]",
+      "median": 3.048063297063288
+    },
+    {
+      "label": "drop (\\ell,m,n)=(2,2,2) [qnm]",
+      "median": 3.048063297063288
+    },
+    {
+      "label": "drop (\\ell,m,n)=(3,3,0) [qnm]",
+      "median": 8.797632790805674
+    },
+    {
+      "label": "drop (\\ell,m,n)=(3,3,1) [qnm]",
+      "median": 3.048063297063288
+    },
+    {
+      "label": "drop (\\ell,m,n)=(4,4,0) [qnm]",
+      "median": 8.797632790805674
+    }
+  ]
+}

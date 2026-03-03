@@ -1,0 +1,27 @@
+{
+  "digits_used": 17,
+  "groups": [
+    {
+      "median": 3.048063297063288,
+      "labels": [
+        "drop (\\ell,m,n)=(2,2,1) [qnm]",
+        "drop (\\ell,m,n)=(2,2,2) [qnm]",
+        "drop (\\ell,m,n)=(3,3,1) [qnm]"
+      ]
+    },
+    {
+      "median": 5.927222107500797,
+      "labels": [
+        "none (full sample, $\\Delta\\le0.05$)"
+      ]
+    },
+    {
+      "median": 8.797632790805674,
+      "labels": [
+        "drop (\\ell,m,n)=(2,2,0) [qnm]",
+        "drop (\\ell,m,n)=(3,3,0) [qnm]",
+        "drop (\\ell,m,n)=(4,4,0) [qnm]"
+      ]
+    }
+  ]
+}

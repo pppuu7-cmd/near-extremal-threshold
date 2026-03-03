@@ -1,0 +1,1 @@
+Near-extremal collapse binned summary (pooled N=156): $R=|\mathrm{Im}(\omega M)|/(T_H M)$ shows weak $\Delta$-dependence in the pooled region.

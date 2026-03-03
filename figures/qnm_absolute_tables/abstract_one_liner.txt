@@ -1,0 +1,1 @@
+Across 6 Kerr QNM families (total N=42), we fit |Im(ωM)| ∝ (T_H M)^ρ over Δ≤0.05, obtaining ρ̄=0.974443±0.000734 (family spread; range [0.973860,0.975855]).

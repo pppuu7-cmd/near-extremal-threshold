@@ -1,0 +1,1 @@
+Extrapolation R(Δ)=|Im(ωM)|/(T_H M) → R0 using R=R0+aΔ^γ over Δ≤0.19: best-fit R0=6.431 (bootstrap 95% CI [-12.561,33.179]); 2π=6.283, (R0-2π)/σ≈0.01.

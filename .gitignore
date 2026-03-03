@@ -1,0 +1,103 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Testing / Coverage
+# =========================
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+htmlcov/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# LaTeX auxiliary files
+# =========================
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.nav
+*.snm
+
+# =========================
+# Matplotlib cache
+# =========================
+.matplotlib/
+
+# =========================
+# Temporary / artifacts
+# =========================
+artifacts/
+results/
+tmp/
+temp/
+
+# =========================
+# Large generated figures (optional)
+# =========================
+# If you want reproducibility but avoid committing regenerated figures,
+# uncomment below:
+#
+# figures/qnm_markov_gap/
+# figures/qnm_ratio_collapse/
+# figures/qnm_absolute_tables/
+#
+# If figures are required for journal submission,
+# keep them tracked.

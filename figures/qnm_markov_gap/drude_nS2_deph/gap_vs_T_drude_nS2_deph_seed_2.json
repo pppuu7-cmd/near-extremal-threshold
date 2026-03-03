@@ -1,0 +1,23 @@
+{
+  "config": {
+    "bath": "drude",
+    "p": 3.0,
+    "tag": "drude_nS2_deph",
+    "nS": 2,
+    "dephase": 1,
+    "d": 12,
+    "eta": 0.2,
+    "omega_c": 50.0,
+    "Tmin": 0.02,
+    "Tmax": 0.5,
+    "nT": 20
+  },
+  "seed": 2,
+  "fit_loglog": {
+    "slope": 1.0000000000000004,
+    "intercept": -1.619788676183562,
+    "r2": 1.0
+  },
+  "csv": "C:\\Users\\axioma338\\Documents\\\u0422\u0435\u043e\u0440\u0438\u044f \u0432\u0441\u0435\u0433\u043e\\\u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u044b\u0440\u044b\\\u0410\u043b\u0433\u0435\u0440\u0431\u0440\u0430\\\u0420\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439\\near-extremal-threshold\\figures\\qnm_markov_gap\\drude_nS2_deph\\gap_vs_T_drude_nS2_deph_seed_2.csv",
+  "png": "C:\\Users\\axioma338\\Documents\\\u0422\u0435\u043e\u0440\u0438\u044f \u0432\u0441\u0435\u0433\u043e\\\u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u044b\u0440\u044b\\\u0410\u043b\u0433\u0435\u0440\u0431\u0440\u0430\\\u0420\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439\\near-extremal-threshold\\figures\\qnm_markov_gap\\drude_nS2_deph\\gap_vs_T_drude_nS2_deph_seed_2.png"
+}
