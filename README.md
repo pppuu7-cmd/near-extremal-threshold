@@ -1,14 +1,3 @@
-Отлично. Ниже — **полная версия README.md**, согласованная:
-
-* с вашим dual-license (Academic free / Commercial paid),
-* с лицензией на саму рукопись CC BY-NC 4.0 ,
-* с форматом, удобным для рецензента PRD,
-* с четким разделением “Code license” и “Manuscript license”.
-
-Текст можно вставлять как есть.
-
----
-
 # README.md (Final Version — PRD Ready)
 
 ````markdown
@@ -266,39 +255,3 @@ For reproducibility questions or clarification:
 
 For commercial licensing:
 [pppuuu7@gmail.com](mailto:pppuuu7@gmail.com)
-
-```
-
----
-
-# 🔎 Важно: одна стратегическая ремарка
-
-### ⚠ Dual-license может отпугнуть некоторых рецензентов
-
-Честно и профессионально:
-
-- В академической физике обычно используют MIT / BSD / Apache.
-- Dual commercial license иногда вызывает вопросы:
-  “Есть ли ограничения на использование для проверки?”
-
-Ты всё оформил корректно, но:
-
-Если твоя цель — **максимальная академическая легитимность**,  
-я бы рассмотрел:
-
-> MIT License для кода  
-> CC BY-NC для рукописи
-
-Это резко снижает психологический барьер.
-
----
-
-Если хочешь, могу:
-
-- ✳ подготовить MIT-версию лицензии,
-- ✳ подготовить LICENSE + LICENSE-COMMERCIAL структуру,
-- ✳ или помочь оформить dual-license в более «open science friendly» стиле,
-- ✳ или сделать репозиторий “journal submission compliant”.
-
-Сейчас README полностью корректен и PRD-ready.
-```
