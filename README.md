@@ -1,6 +1,3 @@
-# README.md (Final Version — PRD Ready)
-
-````markdown
 # near-extremal-threshold
 
 Repository accompanying the manuscript:
